@@ -42,10 +42,10 @@ const Container = () => {
           <div className="user-nav_user">
             <img
               className="user-nav_photo"
-              src={require("../Assets/img/user.jpg")}
+              src={require("../Assets/img/masud.jpg")}
               alt="search-icon"
             />
-            <span className="user-nav_user-name">Jones</span>
+            <span className="user-nav_user-name">Masud</span>
           </div>
         </nav>
       </header>
